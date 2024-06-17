@@ -1,4 +1,4 @@
-# DataAnalyticsPortfolio
+# MasterPowerBI
 
 I didn't intend to infringe on copyright, and I'm not teaching how to do it either. But I made a portfolio for this subject. If you're interested or want to learn more, I recommend taking the course at Skooldio. It's a lot of fun! but in Thai language
 
